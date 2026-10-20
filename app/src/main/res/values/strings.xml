@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Rhythm | ריזם</string>
+    <string name="tab_home">בית</string>
+    <string name="tab_library">ספרייה</string>
+    <string name="tab_playlists">פלייליסטים</string>
+    <string name="tab_settings">הגדרות</string>
+    <string name="search_hint">חיפוש שירים, אמנים, מילים...</string>
+    <string name="permission_required">נדרשת הרשאת גישה לקבצי מוזיקה כדי להפעיל את נגן Rhythm.</string>
+    <string name="grant_permission">אפשר גישה</string>
+    <string name="mixes_shelf">מיקסים בשבילך</string>
+    <string name="quick_picks">חיוג מהיר</string>
+    <string name="albums_shelf">אלבומים מובילים</string>
+    <string name="top_artist_shelf">האמן המוביל שלך</string>
+    <string name="live_shelf">הופעות חיסות ורמיקסים</string>
+    <string name="now_playing">מנגן כעת</string>
+    <string name="queue_title">תור השמעה</string>
+    <string name="lyrics_title">מילות שיר</string>
+    <string name="equalizer_title">אקולייזר ואיזון עוצמה</string>
+    <string name="export_playlists">ייצוא פלייליסטים</string>
+    <string name="import_playlists">ייבוא פלייליסטים</string>
+    <string name="tag_cleanup">ניקוי תגיות אוטומטי</string>
+    <string name="ai_learning">למידת AI אופליין פעילה</string>
+    <string name="empty_library">לא נמצאו קבצי מוזיקה במכשיר.</string>
+    <string name="play_all">נגן הכל</string>
+    <string name="shuffle">ערבב</string>
+    <string name="like">אהבתי</string>
+    <string name="dislike">פחות מעניין</string>
+</resources>
